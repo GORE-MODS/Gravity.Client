@@ -16,7 +16,7 @@
 
   <p>
     <img src="https://img.shields.io/github/v/release/GORE-MODS/Gravity.Client?display_name=release&style=for-the-badge&label=VERSION&color=FF2B6C&logoColor=white" alt="Version">
-    <img src="https://img.shields.io/github/downloads/GORE-MODS/Gravity.Clienttotal?style=for-the-badge&label=DOWNLOADS&color=FF2B6C" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads/GORE-MODS/Gravity.Client/total?style=for-the-badge&label=DOWNLOADS&color=FF2B6C" alt="Downloads">
     <img src="https://img.shields.io/github/stars/GORE-MODS/Gravity.Client?style=for-the-badge&label=STARS&color=FF2B6C" alt="Stars">
   </p>
 
