@@ -6,7 +6,7 @@
 
   <h1>
     <span style="font-size:4.5rem; background:linear-gradient(90deg,#FF2B6C,#00FFFF,#FF2B6C); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0 0 40px #FF2B6C;">
-      👑 GORE.Win™ 👑
+      👑 Gravity.Client 👑
     </span>
   </h1>
 
