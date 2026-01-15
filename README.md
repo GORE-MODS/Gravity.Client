@@ -6,7 +6,7 @@
 
   <h1>
     <span style="font-size:4.5rem; background:linear-gradient(90deg,#FF2B6C,#00FFFF,#FF2B6C); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0 0 40px #FF2B6C;">
-      👑 Gravity.Client 👑
+      Gravity.Client
     </span>
   </h1>
 
@@ -15,9 +15,9 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/github/v/release/GORE-MODS/Gravity.Client/?display_name=release&style=for-the-badge&label=VERSION&color=FF2B6C&logoColor=white" alt="Version">
-    <img src="https://img.shields.io/github/downloads/GORE-MODS/Gravity.Client/total?style=for-the-badge&label=DOWNLOADS&color=FF2B6C" alt="Downloads">
-    <img src="https://img.shields.io/github/stars/GORE-MODS/Gravity.Client/?style=for-the-badge&label=STARS&color=FF2B6C" alt="Stars">
+    <img src="https://img.shields.io/github/v/release/GORE-MODS/Gravity.Client?display_name=release&style=for-the-badge&label=VERSION&color=FF2B6C&logoColor=white" alt="Version">
+    <img src="https://img.shields.io/github/downloads/GORE-MODS/Gravity.Clienttotal?style=for-the-badge&label=DOWNLOADS&color=FF2B6C" alt="Downloads">
+    <img src="https://img.shields.io/github/stars/GORE-MODS/Gravity.Client?style=for-the-badge&label=STARS&color=FF2B6C" alt="Stars">
   </p>
 
   <a href="https://github.com/GORE-MODS/Gravity.Client/releases/latest/download/Gravity.Client.dll">
