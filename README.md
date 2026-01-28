@@ -50,7 +50,7 @@ A: The code is safe mIts a false positive.
 A: Yes, But be lowkey so you don't get banned.
 ---
 ## Installation
-1. Download **GORE.Win.dll** from the Releases page.  
+1. Download **Gravity.Client.dll** from the Releases page.  
 2. Drop it into your `BepInEx/plugins` folder.  
 3. Launch the game.
 ---
